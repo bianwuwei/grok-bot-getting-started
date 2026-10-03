@@ -256,7 +256,7 @@
 
 #### 步骤 1｜官方入口与安装登录
 
-1. 确认套餐资格（以官网／账户页为准：如 SuperGrok／Cursor 相关档位等）。  
+1. 确认套餐资格：Cursor 账号要有 Pro、Pro+、Ultra 或 Teams 套餐（免费的 Hobby 不含 Grok Bot）；没有的话，也可以绑定个人版的 SuperGrok、SuperGrok Plus、SuperGrok Heavy 或 X Premium+ 来获得用量（见 [Grok Bot 套餐帮助页](https://cursor.com/help/grok-bot/plans)）。绑定入口在登录前的 Get Started 付费墙页面上，SuperGrok 点「Link Grok Account」，X Premium+ 点「Link X Account」；登录进主程序后设置里没有这个入口，要回到那一页得彻底退出 App 再重开（见 [Link SuperGrok 帮助页](https://cursor.com/help/grok-bot/supergrok)）。订阅停了，Grok Bot 的用量也跟着停（订阅有效期间才有用量），Cursor 每次续期都会重新核一遍；升降档最多 24 小时生效，不用重新绑定。两个坑：SuperGrok Lite、Team、Enterprise 不能绑定；绑定是永久的，不能解绑或换账号，已有 Cursor 套餐的再绑也不会多出用量。  
 2. 安装 Grok Bot 桌面端（macOS／Windows／Linux），用 Cursor 账号登录。  
 3. 首次引导会介绍 Bot、共享云电脑与例行任务；按提示完成即可。电脑初始化在后台进行。
 
