@@ -3,7 +3,8 @@
 **版本 v1.0.0** · 2026-09-09  
 作者：[無為](https://github.com/bianwuwei)（@bianwuwei）  
 说明：产品细节以官网／客户端为准；案例为结构示例，不作结果承诺。  
-配图：概念图见 [`figures/`](figures/)；第 02 章实机截图见 [`figures/ui/`](figures/ui/)。示例文件见 [`demo/`](demo/)。
+配图：概念图见 [`figures/`](figures/)；第 02 章实机截图见 [`figures/ui/`](figures/ui/)。示例文件见 [`demo/`](demo/)。  
+配套视频课：公众号「無為聊AI」合集 [無為的 Grok Bot 入门课（13 节视频）](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNzMwMTAxOA==&action=getalbum&album_id=4728796787082575881&scene=305#wechat_redirect)；每课的模板和清单见 [`course/`](course/)。
 
 ---
 
